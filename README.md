@@ -1,5 +1,5 @@
 # Optimization for machine learning - Mini Project
-# Accomodating learning rates and warm up for deep learning using large minibatches - scalability limitations
+# Effects of batch size scaled learning rates and gradual warm up for training deep nets using large mini-batches
 
 The aim of this project has been to investigate and access the challenges in relation to scalability gains, when using
 large mini batches for training deep neural networks. More specifically the project gives a look into the effects of scaling the learning rate
