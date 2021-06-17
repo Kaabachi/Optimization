@@ -50,7 +50,7 @@ scaled_lr_large_minibatch.ipynb
 gradual_warmup_scaled_lr_large_minibatch.ipynb
 Results&Visualizations.ipynb
 report.pdf
-* DATA FOLDER: As the results and plots capture information about running time and other parameters, it is necessary to run the notebooks on Google Colab or VMs with similar hardware for reproducibility. As running all batch sizes in a loop for every notebook would trigger Colabs user-limitation to free GPU service and it would be too tiresome for the reader to change filenames manually from run to run (doing a single batch size at a time to avoid Colab from crashing/limiting free GPU), in order to produce the .csv files him/herself and run the plots, all of the results (.csv files) have been stored in the data-folder. These can be used to run the Results&Visualization.ipynb.
+* DATA FOLDER: As the results and plots capture information about running time and other parameters, it is necessary to run the notebooks on Google Colab or VMs with similar hardware for reproducibility. As running all batch sizes in a loop for every notebook would trigger Colabs user-limitation to free GPU service and it would be too tiresome for the reader to change filenames manually from run to run (doing a single batch size at a time to avoid Colab from crashing/limiting free GPU), in order to produce the .csv files him/herself and run the plots, all of the results (.csv files) have been stored in the dataOPTML-folder. These can be used to run the Results&Visualization.ipynb.
 
 ## Conclusion
 For insights to the discussion and conclusion we refer to the report.
